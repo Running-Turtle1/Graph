@@ -53,12 +53,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tat7jOzfZochNJkR1R5l-34" value="推荐用户可能感兴趣的词条" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=11;verticalAlign=top;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Tat7jOzfZochNJkR1R5l-1">
-          <mxGeometry x="155" y="185" width="110" height="50" as="geometry" />
+          <mxGeometry x="132.5" y="190" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tat7jOzfZochNJkR1R5l-36" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Tat7jOzfZochNJkR1R5l-1" source="Tat7jOzfZochNJkR1R5l-4" target="Tat7jOzfZochNJkR1R5l-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="106" y="290" as="sourcePoint" />
             <mxPoint x="156" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tat7jOzfZochNJkR1R5l-39" value="查看词条" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Tat7jOzfZochNJkR1R5l-1">
+          <mxGeometry x="155" y="150" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tat7jOzfZochNJkR1R5l-40" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Tat7jOzfZochNJkR1R5l-1" target="Tat7jOzfZochNJkR1R5l-39" source="Tat7jOzfZochNJkR1R5l-2">
+          <mxGeometry x="0.0004" width="160" relative="1" as="geometry">
+            <mxPoint x="336" y="100" as="sourcePoint" />
+            <mxPoint x="658" y="80" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tat7jOzfZochNJkR1R5l-13" value="普通用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
