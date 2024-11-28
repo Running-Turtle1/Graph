@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xf5N_1pmWuM3FotxF5dR-25" value="普通用户/商家账号" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=11;verticalAlign=top;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Xf5N_1pmWuM3FotxF5dR-1">
-          <mxGeometry x="155" y="240" width="110" height="50" as="geometry" />
+          <mxGeometry x="155" y="235" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Xf5N_1pmWuM3FotxF5dR-26" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Xf5N_1pmWuM3FotxF5dR-1" source="Xf5N_1pmWuM3FotxF5dR-7" target="Xf5N_1pmWuM3FotxF5dR-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
