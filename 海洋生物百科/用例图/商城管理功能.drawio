@@ -16,9 +16,6 @@
         <mxCell id="zeIB3MRSu70Jo39GSCDh-5" value="增加订单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zeIB3MRSu70Jo39GSCDh-1">
           <mxGeometry x="156" y="30" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zeIB3MRSu70Jo39GSCDh-4" value="帖子标签功能" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zeIB3MRSu70Jo39GSCDh-1">
-          <mxGeometry x="16" y="230" width="87.5" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="zeIB3MRSu70Jo39GSCDh-6" value="修改订单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zeIB3MRSu70Jo39GSCDh-1">
           <mxGeometry x="156" y="65" width="65" height="30" as="geometry" />
         </mxCell>
@@ -115,12 +112,6 @@
             <mxPoint x="448.5" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zeIB3MRSu70Jo39GSCDh-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="zeIB3MRSu70Jo39GSCDh-1" source="zeIB3MRSu70Jo39GSCDh-4" target="zeIB3MRSu70Jo39GSCDh-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="336" y="190" as="sourcePoint" />
-            <mxPoint x="438.5" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zeIB3MRSu70Jo39GSCDh-26" value="普通用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="224" y="270" width="30" height="60" as="geometry" />
         </mxCell>
@@ -136,7 +127,7 @@
             <mxPoint x="264" y="435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zeIB3MRSu70Jo39GSCDh-30" value="" style="endArrow=none;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zeIB3MRSu70Jo39GSCDh-4" target="zeIB3MRSu70Jo39GSCDh-26">
+        <mxCell id="zeIB3MRSu70Jo39GSCDh-30" value="" style="endArrow=none;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="zeIB3MRSu70Jo39GSCDh-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="360" as="sourcePoint" />
             <mxPoint x="254" y="270" as="targetPoint" />
